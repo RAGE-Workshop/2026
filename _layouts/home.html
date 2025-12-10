@@ -1,0 +1,95 @@
+---
+layout: default
+---
+
+<main id="page-top" class="index">
+
+    <!-- Header -->
+    <header style='background-image: url("{{ page.cover | relative_url }}");'>
+        <div class="container">
+            <div class="intro-text" style="text-align:center;">
+                <div class="intro-text-wrapper">
+                    <div class="intro-heading">
+                        RAGE {{ page.year }}
+                        <p class="intro-subtitle">
+                            <a href="{{ page.hosted-url }}">@ {{ page.hosted }}</a>
+                        </p>
+                    </div>
+                    <div id="caption" class="intro-lead-in">
+                        {{ page.caption }}
+                    </div>
+                    <div id="date" class="intro-lead-in">
+                        {{ page.date }}
+                    </div>
+                    <div id="location" class="intro-lead-in">
+                        {{ page.location }}
+                    </div>
+                    <a href="#intro" class="page-scroll btn btn-xl">
+                        Call For Papers
+                        <i class="fa fa-arrow-down" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section id="intro">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <h2 class="section-heading">The RAGE Workshop</h2>
+                    <div>
+                        {{ content }}
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="home-dates">
+                        <h2 class="section-heading">Important dates</h2>
+                        <table class="table">
+                            <tr>
+                                <th scope="row">Submission deadline</th>
+                                <td>{{ page.deadline }}</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Notification to authors</th>
+                                <td>{{ page.notification }}</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Workshop date</th>
+                                <td>{{ page.date }}</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Submission link</th>
+                                <td><a target="_blank" href="{{ page.submission }}">{{ page.submission }}</a></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="home-sponsors">
+                        <h3>Technically sponsored by</h3>
+                        <ul>
+                            <li>
+                                <a href="http://www.emsig.net">
+                                    <img width="150px" src="{{ "/assets/img/emsig.png" | relative_url }}" alt="EMSIG">
+                                    <span>Embedded Systems Special Interest Group</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://futurenetworks.ieee.org/">
+                                    <img width="150px" src="{{ "/assets/img/ieee-future.png" | relative_url }}" alt="IEEE Future Networks">
+                                    <span>IEEE Future Networks</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://nancy-project.eu/">
+                                    <img width="150px" src="{{ "/assets/img/nancy-logo.png" | relative_url }}" alt="EU NANCY Project">
+                                    <span>EU NANCY Project</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</main>

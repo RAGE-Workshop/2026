@@ -1,0 +1,16 @@
+<div class="col-sm-12">
+    <div class="speaker-simple-item">
+        <p>
+            <b>
+        {% if include.person.webpage %}
+                <a href="{{ person.webpage }}">
+        {% endif %}
+        {{ include.person.name }}
+        {% if include.person.webpage %}
+                </a>
+        {% endif %}
+            </b>
+        </p>
+        <p>{{ include.person.affiliation }}</p>
+    </div>
+</div>

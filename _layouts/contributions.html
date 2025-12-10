@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<main id="page-top">
+    <section class="bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>{{ page.title }}</h2>
+                        <hr class="star-primary">
+                        <h3>Authors:</h3>
+                        <p>{{ page.authors }}</p>
+                        <h3>Keywords:</h3>
+                        <p>{{ page.keywords }}</p>
+                        <h3>Abstract:</h3>
+                        <p>{{ page.abstract }}</p>
+                        <!-- <h3>Material:</h3>
+                        <ul>
+                            <li><a href='{{ "assets/data/slides/" | append: page.slides | relative_url }}'>Slides</a></li>
+                            <li><a href='{{ "assets/data/papers/" | append: page.slug | append: ".pdf" | relative_url }}'>Paper</a></li>
+                        </ul> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>

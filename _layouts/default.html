@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+  <!-- jQuery Version 1.11.0 -->
+  <script src="{{ "/assets/js/jquery-1.11.0.js" | relative_url }}"></script>
+
+  {%- include header.html -%}
+  {{ content }}
+  {%- include footer.html -%}
+
+  <!-- Bootstrap Core JavaScript -->
+  <script src="{{ "/assets/js/bootstrap.min.js" | relative_url }}"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="{{ "/assets/js/jquery.easing.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/classie.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/cbpAnimatedHeader.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/masonry.pkgd.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/imagesloaded.pkgd.js" | relative_url }}"></script>
+
+
+  <!-- Custom Theme JavaScript -->
+  <script src="{{ "/assets/js/agency.js" | relative_url }}"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,224 @@
+/*!
+ * This file contains CSS added to customize the Agency StartBootstrap template
+ */
+
+/*
+* INDEX:
+*   - 01 - GENERAL
+*   - 02 - FOOTER
+*   - 03 - HOME
+*   - 04 - ORGANIZERS & SPEAKERS
+*   - 05 - AGENDA
+*   - 06 - PAST EVENTS
+*/
+
+/*
+* 01 - GENERAL
+*/
+
+body {
+    position: absolute;
+    margin: 0;
+    min-height: 100%;
+    width: 100%;
+}
+
+@media(min-width:768px) {
+    .navbar-brand {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+}
+
+/*
+* 02 - FOOTER
+*/
+
+footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+footer .col-md-4:last-child {
+    text-align: right;
+}
+
+/*
+* 03 - HOME
+*/
+
+.intro-text {
+    text-align: center;
+}
+
+.intro-text-wrapper {
+    padding: 20px;
+    width: 50%; 
+    margin: 0 auto; 
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.intro-subtitle {
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+.intro-subtitle a {
+    text-decoration: underline;
+    color: white;
+}
+
+.intro-subtitle a:visited {
+    color: white;
+}
+  
+#date {
+    margin: 0;
+}
+
+#caption {
+    font-style: normal;
+    font-weight: bold;
+}
+
+.home-sponsors a {
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+}
+
+.home-sponsors a > img {
+    margin: 0 auto;
+}
+
+.home-sponsors a > img, .home-sponsors a > span {
+    display: block;
+} 
+
+.home-sponsors ul {
+    list-style-type: none;
+}
+
+@media(max-width:768px) {
+    .intro-text-wrapper {
+        width: 75%;
+    }
+    .page-scroll.btn {
+        padding: 10px 20px;
+    }
+    .intro-subtitle {
+        font-size: 30px;
+    }
+}
+
+/*
+* 04 - ORGANIZERS & SPEAKERS
+*/
+
+.text-muted {
+    margin: 0;
+    color: #333;
+}
+
+.speakers-name {
+    margin-bottom: 10px !important;
+}
+
+.speaker-simple-item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.speaker-simple-item p {
+    margin: 0;
+}
+
+.organizers-secondary .speaker-simple-item {
+    text-align: center;
+}
+
+.people h2:not(.section-heading) {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.speakers-info p {
+    margin: 5px;
+}
+
+#speakers {
+    margin-bottom: 20px;
+}
+
+/*
+* 05 - AGENDA
+*/
+
+.program {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.program tbody tr td {
+    padding: 5px 11px;
+    font-size: 14px;
+}
+
+.program th, .program td {
+    border-top: 1px solid rgba(255, 255, 255, 0.6);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.program-topic { 
+    background: rgb(225, 225, 235); 
+}
+
+.program-tag { 
+    background: rgb(239, 170, 135); 
+    font-size: 115%; 
+}
+
+.program-event { 
+    background: rgb(215, 215, 195); 
+}
+
+.program-special-event { 
+    background: rgb(246, 230, 144); 
+}
+
+.program-break { 
+    background: rgb(247, 170, 187); 
+}
+
+.program-speaker { 
+    font-size: 85%; 
+    font-style: italic; 
+}
+
+.program-invited-speaker { 
+    font-style: italic; 
+}
+
+.program-special-speaker { 
+    font-style: italic;
+    font-weight: bold;
+}
+
+.program-divider {
+    height: 30px;
+}
+
+/*
+* 06 - PAST EVENTS
+*/
+
+.past-event {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.past-event-divider {
+    width: 100%;
+    height: 1px;
+}
