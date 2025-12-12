@@ -2,7 +2,7 @@
 layout: home
 year: 2026
 date: "May 11th, 2026"
-deadline: "January 20th, 2026, Anywhere on Earth"
+deadline: "February 3rd, 2026, Anywhere on Earth"
 notification: "March 1st, 2026, end of the day"
 camera-ready: "March 15th, 2026, Anywhere on Earth"
 location: "Saint Malo, France"
@@ -47,3 +47,4 @@ The workshop will include the following three types of contributions:
 - An open discussion that will include experts both from academia and industry as well as the workshop’s audience to further support the discussion and community building in the workshop.
 
 We plan for a full-day workshop.
+
