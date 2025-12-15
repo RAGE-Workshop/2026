@@ -3,12 +3,12 @@ layout: home
 year: 2026
 date: "May 11th, 2026"
 deadline: "February 3rd, 2026, Anywhere on Earth"
-notification: "March 1st, 2026, end of the day"
-camera-ready: "March 15th, 2026, Anywhere on Earth"
+notification: "March 2nd, 2026, end of the day"
+camera-ready: "March 9th, 2026, Anywhere on Earth"
 location: "Saint Malo, France"
 cover: /assets/img/saint-malo-cover.jpg
 caption: The 5th Real-time And intelliGent Edge computing workshop
-submission: TBD
+submission: https://easychair.org/conferences/?conf=rage2026
 hosted: CPS-IoT Week 2026
 hosted-url: https://cps-iot-week2026.inria.fr/
 ---
