@@ -59,9 +59,8 @@ permalink: /organizers/
 {% endfor %}
 
 <!-- Other organizers -->
-<!-- TODO: Add TPC when list is available -->
-{% assign roles = "web|publicity" | split: "|" %}
-{% assign headings = "Web chair|Publicity chair" | split: "|" %}
+{% assign roles = "tpc|web|publicity" | split: "|" %}
+{% assign headings = "Technical program committee|Web chair|Publicity chair" | split: "|" %}
 
 {% for role in roles %}
 <h2>{{ headings[forloop.index0] }}</h2>
