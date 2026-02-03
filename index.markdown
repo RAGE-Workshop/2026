@@ -2,7 +2,7 @@
 layout: home
 year: 2026
 date: "May 11th, 2026"
-deadline: "February 3rd, 2026, Anywhere on Earth"
+deadline: "<s>February 3rd</s> <b>February 10th</b>, 2026, Anywhere on Earth"
 notification: "March 2nd, 2026, end of the day"
 camera-ready: "March 9th, 2026, Anywhere on Earth"
 location: "Saint Malo, France"
@@ -12,6 +12,10 @@ submission: https://easychair.org/conferences/?conf=rage2026
 hosted: CPS-IoT Week 2026
 hosted-url: https://cps-iot-week2026.inria.fr/
 ---
+
+## Announcement
+
+<p style='color="red"'> The submission deadline is extended to February 10th. </p>
 
 ## Call for papers
 
