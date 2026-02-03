@@ -15,7 +15,7 @@ hosted-url: https://cps-iot-week2026.inria.fr/
 
 ## Announcement
 
-<p style='color="red"'> The submission deadline is extended to February 10th. </p>
+<b style="color=red;"> The submission deadline is extended to February 10th. </b>
 
 ## Call for papers
 
