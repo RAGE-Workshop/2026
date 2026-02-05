@@ -1,0 +1,8 @@
+---
+name: Prof. Tarek Abdelzaher 
+affiliation: University of Illinois Urbana-Champaign, Illinois, USA
+webpage: https://abdelzaher.cs.illinois.edu/
+pic: assets/data/speakers/abdelzaher.jpg
+bio: >-
+    Prof. Tarek Abdelzaher received his Ph.D. in Computer Science from the University of Michigan in 1999. He is currently a Professor and Willett Faculty Scholar at the Department of Computer Science, the University of Illinois at Urbana Champaign. He has authored/coauthored more than 400 refereed publications in real-time computing, CPS/IoT, distributed systems, intelligent networked sensing, machine learning, and control. He served as Editor-in-Chief of the Journal of Real-Time Systems for 15 years, and as Associate Editor of the IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Embedded Systems Letters, the ACM Transaction on Sensor Networks, ACM Transactions on Internet Technology, ACM Transactions on Internet of Things, and the Ad Hoc Networks Journal. He chaired (as Program or General Chair) several conferences in his area including RTAS, RTSS, IPSN, Sensys, DCoSS, ICDCS, Infocom, and ICAC. Abdelzaher's research interests lie broadly in understanding and influencing performance and temporal properties of networked embedded, social, and software systems in the face of increasing complexity, distribution, and degree of interaction with an external physical environment. Tarek Abdelzaher is a recipient of the IEEE Outstanding Technical Achievement and Leadership Award in Real-time Systems (2012), the Xerox Award for Faculty Research (2011), as well as several best paper awards. He is a fellow of IEEE and ACM.
+---
