@@ -17,6 +17,7 @@ hosted-url: https://cps-iot-week2026.inria.fr/
 
 <b style="color=red;"> The submission deadline is extended to February 10th. </b>
 
+
 ## Call for papers
 
 The edge computing paradigm is becoming increasingly popular as it facilitates real-time computation, reduces energy consumption and carbon footprint, and fosters security and privacy preservation by processing the data closer to its origin, thereby drastically reducing the amount of data sent to the cloud. On the application side, there is a growing interest in using edge computing as a key pillar to support decentralized artificial intelligence by implementing federated learning and adaptive deep learning inference at the edge. However, many edge applications tightly interact with the surrounding environment and are required to deliver a result (e.g., perform actuation or send a message through a 5G network) within a predefined deadline. Therefore, a key requirement in edge computing is the need to be predictable across the edge-to-cloud continuum while also efficiently utilizing system resources.
