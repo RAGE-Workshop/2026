@@ -1,6 +1,6 @@
 ---
 name: Dr. Fedor Smirnov 
-affiliation: Robert Bosch GmbH, Germany
+affiliation: Peeriot GmbH, Germany
 webpage: https://www.linkedin.com/in/fedorsmirnov89/
 pic: assets/data/speakers/smirnov.jpeg
 bio: >-
