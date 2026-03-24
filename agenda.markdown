@@ -133,7 +133,7 @@ permalink: /agenda/
             <td>
                 Towards Breathable Distributed Systems: An Architecture for Cross-Platform Task Migration
                 <br>
-                <span class="program-speaker">Migration Octavio Delgadillo, Bernhard Schwarzberg, Yinbo Zhou and Uwe Baumgarten</span>
+                <span class="program-speaker">Octavio Delgadillo, Bernhard Schwarzberg, Yinbo Zhou and Uwe Baumgarten</span>
             </td>
         </tr>
         <tr>
