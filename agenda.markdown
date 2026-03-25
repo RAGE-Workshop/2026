@@ -28,7 +28,6 @@ permalink: /agenda/
                 [ 
                 <a href="/2026/contributions/02"><i class="fa fa-file-text-o "></i></a> 
                 ]
-                <br>
                 <br>&emsp;<span>Safety Verification via Deep Learning: A conceptual framework</span>
                 <b><br>&emsp;<a href="/2026/speakers/#baruah-sanjoy">Prof. Sanjoy Baruah,</a></b>
                 <br>&emsp;<a href="https://washu.edu//">Washington University in Saint Louis, USA</a>
