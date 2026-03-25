@@ -15,7 +15,9 @@ hosted-url: https://cps-iot-week2026.inria.fr/
 
 ## Announcement
 
-<b style="color=red;"> The submission deadline is extended to February 10th. </b>
+<b style="color=red;"> 
+    Preliminary program of the workshop is now published: [Agenda](https://rage-workshop.github.io/2026/agenda/)
+</b>
 
 
 ## Call for papers
