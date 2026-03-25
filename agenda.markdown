@@ -25,6 +25,10 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">09:00-09:30</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                [ 
+                <a href="/2026/contributions/02"><i class="fa fa-file-text-o "></i></a> 
+                ]
+                <br>
                 <br>&emsp;<span>Safety Verification via Deep Learning: A conceptual framework</span>
                 <b><br>&emsp;<a href="/2026/speakers/#baruah-sanjoy">Prof. Sanjoy Baruah,</a></b>
                 <br>&emsp;<a href="https://washu.edu//">Washington University in Saint Louis, USA</a>
@@ -33,7 +37,10 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">09:00-09:30</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span>TBA</span>
+                [ 
+                <a href="/2026/contributions/06"><i class="fa fa-file-text-o "></i></a> 
+                ]
+                <br>&emsp;<span>Towards Foundation Models for Intelligent Real-Time Edge Application</span>
                 <b><br>&emsp;<a href="/2026/speakers/#abdelzaher-tarek">Prof. Tarek Abdelzaher,</a></b>
                 <br>&emsp;<a href="https://illinois.edu/">University of Illinois Urbana-Champaign, USA </a>
             </td>
@@ -73,6 +80,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">11:15-11:45</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                [ 
+                <a href="/2026/contributions/04"><i class="fa fa-file-text-o "></i></a> 
+                ]
                 <br>&emsp;<span>WebAssembly Beyond the Browser: Cross-Domain Expectations and Integration Challenges at the Edge</span>
                 <b><br>&emsp;<a href="/2026/speakers/#smirnov-fedor">Dr Fedor Smirnov,</a></b>
                 <br>&emsp;<a href="https://peeriot.io/">Peeriot GmbH, Germany</a>
@@ -81,6 +91,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">11:45-12:15</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                [ 
+                <a href="/2026/contributions/03"><i class="fa fa-file-text-o "></i></a> 
+                ]
                 <br>&emsp;<span>A Generalized Mechanism for Distributed Time-Sensitive Systems Speaker</span>
                 <b><br>&emsp;<a href="/2026/speakers/#lee-edward">Prof. Edward A. Lee,</a></b>
                 <br>&emsp;<a href="https://www.berkeley.edu/">UC Berkley, USA</a>
@@ -147,7 +160,10 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">15:30-16:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span>A Map of All Our Failures: Why Reliable Systems Need More Deadline Misses Speaker</span> 
+                [ 
+                <a href="/2026/contributions/01"><i class="fa fa-file-text-o "></i></a> 
+                ]
+                <br>&emsp;<span>A Map of All Our Failures: Why Reliable Systems Need More Deadline Misses</span> 
                 <b><br>&emsp;<a href="/2026/speakers/#craciunas-silviu">Silviu S. Craciunas,</a></b>
                 <br>&emsp;<a href="https://www.nxp.com/">NXP Semiconductors, Austria </a>
             </td>
@@ -159,6 +175,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">16:30-17:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                [ 
+                <a href="/2026/contributions/05"><i class="fa fa-file-text-o "></i></a> 
+                ]
                 <br>&emsp;<span>Cross-Layer Containment for Cloud-to-Edge Systems through Heterogeneous Virtualization and SLO-Aware Orchestration</span> 
                 <b><br>&emsp;<a href="/2026/speakers/#de-simone-luigi">Prof Luigi De Simone,</a></b>
                 <br>&emsp;<a href="https://www.unina.it/en/">University of Naples, Italy </a>
