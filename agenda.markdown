@@ -15,15 +15,15 @@ permalink: /agenda/
             <td class="program-tag" colspan="2">Monday, 11th May 2026 - Morning session</td>
         </tr>
         <tr>
-            <td class="program-break">08:00-08:45</td>
+            <td class="program-break">08:00-09:00</td>
             <td class="program-break">Registration</td>
         </tr>
         <tr>
-            <td class="program-event">08:45-09:00</td>
+            <td class="program-event">09:15-09:30</td>
             <td class="program-event">Welcome message from the organizers</td>
         </tr>
         <tr>
-            <td class="program-special-event">09:00-09:30</td>
+            <td class="program-special-event">09:30-10:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 [ 
                 <a href="/2026/contributions/02"><i class="fa fa-file-text-o "></i></a> 
@@ -34,7 +34,7 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td class="program-special-event">09:00-09:30</td>
+            <td class="program-special-event">10:00-10:30</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 [ 
                 <a href="/2026/contributions/06"><i class="fa fa-file-text-o "></i></a> 
@@ -45,15 +45,15 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td class="program-break">10:00-10:30</td>
+            <td class="program-break">10:30-11:00</td>
             <td class="program-break">Coffee Break</td>
         </tr>
         <tr>
-            <td class="program-topic">10:30-11:15</td>
+            <td class="program-topic">11:00-12:30</td>
             <td class="program-topic">Session 1 - AI at the Edge</td>
         </tr>
         <tr>
-            <td>10:30-10:45</td>
+            <td>11:00-11:15</td>
             <td>
                 Low-Latency Embedded Driver Monitoring System with a Multi-Task Neural Network
                 <br>
@@ -61,7 +61,7 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td>10:45-11:00</td>
+            <td>11:15-11:30</td>
             <td>
                 Hierarchical adaptive control for real-time dynamic inference at the edge
                 <br>
@@ -69,22 +69,11 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td>11:00-11:15</td>
+            <td>11:30-11:45</td>
             <td>
                 LADbridge: LAnguage-Driven composition of APIs on Distributed Edge Devices
                 <br>
                 <span class="program-speaker">Francesco Cosimo Mazzitelli and Eugenio Zimeo</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="program-special-event">11:15-11:45</td>
-            <td class="program-special-event"><b>Invited Talk:</b>
-                [ 
-                <a href="/2026/contributions/04"><i class="fa fa-file-text-o "></i></a> 
-                ]
-                <br>&emsp;<span>WebAssembly Beyond the Browser: Cross-Domain Expectations and Integration Challenges at the Edge</span>
-                <b><br>&emsp;<a href="/2026/speakers/#smirnov-fedor">Dr Fedor Smirnov,</a></b>
-                <br>&emsp;<a href="https://peeriot.io/">Peeriot GmbH, Germany</a>
             </td>
         </tr>
         <tr>
@@ -109,7 +98,7 @@ permalink: /agenda/
             <td class="program-tag" colspan="2">Monday, 11th May 2026 - Afternoon session</td>
         </tr>
         <tr>
-            <td class="program-topic">14:00-15:30</td>
+            <td class="program-topic">14:00-15:00</td>
             <td class="program-topic">Session 2 - HW mechanisms in Edge Computing</td>
         </tr>
         <tr>
@@ -131,7 +120,10 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">14:30-15:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span>TBA</span> 
+                [ 
+                <a href="/2026/contributions/07"><i class="fa fa-file-text-o "></i></a> 
+                ]
+                <br>&emsp;<span>Decomposition of End-to-end Timing Constraints in Cyberphysical Cloud Environments</span> 
                 <b><br>&emsp;<a href="/2026/speakers/#fohler-gerhard">Prof. Gerhard Fohler,</a></b>
                 <br>&emsp;<a href="https://rptu.de/en">TU Kaiserslautern, Germany </a>
             </td>
@@ -174,21 +166,21 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">16:30-17:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                <br>&emsp;<span>ROS 2 Can Finally Evaluate Your DAG Scheduler: Autoware as a Real-Time Systems Research Platform</span> 
+                <b><br>&emsp;<a href="/2026/speakers/#ishikawa-aso-takahiro">Takahiro Ishikawa-Aso,</a></b>
+                <br>&emsp;<a href="https://tier4.jp/en/">TIER IV Inc., Japan </a> | 
+                <a href="https://www.u-tokyo.ac.jp/en/">The University of Tokyo, Japan </a>
+            </td>
+        </tr>
+        <tr>
+            <td class="program-special-event">17:00-17:30</td>
+            <td class="program-special-event"><b>Invited Talk:</b>
                 [ 
                 <a href="/2026/contributions/05"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>&emsp;<span>Cross-Layer Containment for Cloud-to-Edge Systems through Heterogeneous Virtualization and SLO-Aware Orchestration</span> 
                 <b><br>&emsp;<a href="/2026/speakers/#de-simone-luigi">Prof Luigi De Simone,</a></b>
                 <br>&emsp;<a href="https://www.unina.it/en/">University of Naples, Italy </a>
-            </td>
-        </tr>
-        <tr>
-            <td class="program-special-event">17:00-17:30</td>
-            <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span>TBA</span> 
-                <b><br>&emsp;<a href="/2026/speakers/#ishikawa-aso-takahiro">Takahiro Ishikawa-Aso,</a></b>
-                <br>&emsp;<a href="https://tier4.jp/en/">TIER IV Inc., Japan </a> | 
-                <a href="https://www.u-tokyo.ac.jp/en/">The University of Tokyo, Japan </a>
             </td>
         </tr>
         <tr>
