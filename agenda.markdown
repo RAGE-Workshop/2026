@@ -166,6 +166,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">16:30-17:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                [ 
+                <a href="/2026/contributions/08"><i class="fa fa-file-text-o "></i></a> 
+                ]
                 <br>&emsp;<span>ROS 2 Can Finally Evaluate Your DAG Scheduler: Autoware as a Real-Time Systems Research Platform</span> 
                 <b><br>&emsp;<a href="/2026/speakers/#ishikawa-aso-takahiro">Takahiro Ishikawa-Aso,</a></b>
                 <br>&emsp;<a href="https://tier4.jp/en/">TIER IV Inc., Japan </a> | 
