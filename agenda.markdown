@@ -156,7 +156,7 @@ permalink: /agenda/
                 ]
                 <br>&emsp;<span>A Map of All Our Failures: Why Reliable Systems Need More Deadline Misses</span> 
                 <b><br>&emsp;<a href="/2026/speakers/#craciunas-silviu">Silviu S. Craciunas,</a></b>
-                <br>&emsp;<a href="https://www.nxp.com/">NXP Semiconductors, Austria </a>
+                <br>&emsp;<a href="https://www.nxp.com/">TrustMotion, Austria </a>
             </td>
         </tr>
         <tr>
