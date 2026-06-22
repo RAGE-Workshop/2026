@@ -72,6 +72,9 @@ permalink: /agenda/
             <td>11:30-11:45</td>
             <td>
                 LADbridge: LAnguage-Driven composition of APIs on Distributed Edge Devices
+                [ 
+                <a href="/2026/assets/data/slides/mazzitelli-francesco.pdf"><i class="fa fa-slideshare"></i></a> 
+                ]
                 <br>
                 <span class="program-speaker">Francesco Cosimo Mazzitelli and Eugenio Zimeo</span>
             </td>
@@ -81,6 +84,7 @@ permalink: /agenda/
             <td class="program-special-event"><b>Invited Talk:</b>
                 [ 
                 <a href="/2026/contributions/03"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2026/assets/data/slides/lee-edward.pdf"><i class="fa fa-slideshare"></i></a> 
                 ]
                 <br>&emsp;<span>A Generalized Mechanism for Distributed Time-Sensitive Systems Speaker</span>
                 <b><br>&emsp;<a href="/2026/speakers/#lee-edward">Prof. Edward A. Lee,</a></b>
@@ -105,6 +109,9 @@ permalink: /agenda/
             <td>14:00-14:15</td>
             <td>
                 FRACTAL: Fast Reverse Address translation over Coherence for Tracing And Logging
+                [ 
+                <a href="/2026/assets/data/slides/ciraolo-francesco.pdf"><i class="fa fa-slideshare"></i></a> 
+                ]
                 <br>
                 <span class="program-speaker">Francesco Ciraolo, Patrick Carpanedo, Daniele Ottaviano, Matias Ou, Marco Caccamo and Renato Mancuso</span>
             </td>
@@ -113,6 +120,9 @@ permalink: /agenda/
             <td>14:15-14:30</td>
             <td>
                 Extracting the Topology of a Hardware Platform Using Hardware Event
+                [ 
+                <a href="/2026/assets/data/slides/cazanove-cedric.pdf"><i class="fa fa-slideshare"></i></a> 
+                ]
                 <br>
                 <span class="program-speaker">Cédric Cazanove, Benjamin Lesage, Frédéric Boniol, Sandrine Mouysset and Jérôme Ermont</span>
             </td>
@@ -136,6 +146,9 @@ permalink: /agenda/
             <td>15:00-15:15</td>
             <td>
                 Towards Breathable Distributed Systems: An Architecture for Cross-Platform Task Migration
+                [ 
+                <a href="/2026/assets/data/slides/delgadillo-octavio.pdf"><i class="fa fa-slideshare"></i></a> 
+                ]
                 <br>
                 <span class="program-speaker">Octavio Delgadillo, Bernhard Schwarzberg, Yinbo Zhou and Uwe Baumgarten</span>
             </td>
@@ -144,6 +157,9 @@ permalink: /agenda/
             <td>15:15-15:30</td>
             <td>
                 Local Detection, Collective Correction: Self-Healing Solution for Camera Sensor Networks
+                [ 
+                <a href="/2026/assets/data/slides/attarha-shadi.pdf"><i class="fa fa-slideshare"></i></a> 
+                ]
                 <br>
                 <span class="program-speaker">Shadi Attarha, Kanaga Shanmugi and Anna Förster</span>
             </td>
@@ -153,6 +169,7 @@ permalink: /agenda/
             <td class="program-special-event"><b>Invited Talk:</b>
                 [ 
                 <a href="/2026/contributions/01"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2026/assets/data/slides/craciunas-silviu.pdf"><i class="fa fa-slideshare"></i></a> 
                 ]
                 <br>&emsp;<span>A Map of All Our Failures: Why Reliable Systems Need More Deadline Misses</span> 
                 <b><br>&emsp;<a href="/2026/speakers/#craciunas-silviu">Silviu S. Craciunas,</a></b>
@@ -168,6 +185,7 @@ permalink: /agenda/
             <td class="program-special-event"><b>Invited Talk:</b>
                 [ 
                 <a href="/2026/contributions/08"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2026/assets/data/slides/ishikawa-aso-takahiro.pdf"><i class="fa fa-slideshare"></i></a> 
                 ]
                 <br>&emsp;<span>ROS 2 Can Finally Evaluate Your DAG Scheduler: Autoware as a Real-Time Systems Research Platform</span> 
                 <b><br>&emsp;<a href="/2026/speakers/#ishikawa-aso-takahiro">Takahiro Ishikawa-Aso,</a></b>
